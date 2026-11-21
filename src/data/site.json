@@ -1,0 +1,10 @@
+{
+  "brand": "TA Rocket Marketing",
+  "tagline": ["TARGET THE RIGHT AUDIENCE.", "LAUNCH REAL RESULTS."],
+  "services": [
+    {"number":"01","title":"Web Design","description":"Distinctive digital experiences built to make your brand impossible to ignore.","icon":"web"},
+    {"number":"02","title":"Digital Marketing","description":"Strategic campaigns that connect your business with the people who matter.","icon":"marketing"},
+    {"number":"03","title":"Automation","description":"Intelligent workflows that remove friction and give your business room to move.","icon":"automation"},
+    {"number":"04","title":"Custom Software","description":"Purpose-built digital tools shaped around the way your business works.","icon":"software"}
+  ]
+}
