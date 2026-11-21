@@ -1,0 +1,9 @@
+{
+  "name": "TA Rocket Marketing",
+  "short_name": "TA Rocket",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030303",
+  "theme_color": "#030303",
+  "icons": [{"src": "/assets/ta-rocket-logo.jpg", "sizes": "any", "type": "image/jpeg"}]
+}
